@@ -1,12 +1,4 @@
 language: python
-matrix:
-   include:
-       - python: 3.8
-         dist: bionic
-       - pthon: 3.8 
-         arch: arm64
-         dist: bionic
-         
 python:
   - 2.6
   - 2.7
